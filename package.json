@@ -1,0 +1,7 @@
+{
+  "name": "vite-mfe-sample",
+  "private": true,
+  "scripts": {
+    "setup": "node run-all.js"
+  }
+}
